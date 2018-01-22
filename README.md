@@ -3,6 +3,8 @@
 
 App Store 下载地址  https://itunes.apple.com/cn/app/id1296110665?mt=8
 
+![](https://static-cdn.aso100.com/pic/view/type/screenshot/source/aHR0cDovL2lzMy5tenN0YXRpYy5jb20vaW1hZ2UvdGh1bWIvUHVycGxlMTE4L3Y0L2Q5L2Y2LzA2L2Q5ZjYwNjJlLWY5NDgtYWIzNC02MjNjLWUwYmM0NTBjZGUyZC9zb3VyY2UvMzkyeDY5NmJiLmpwZw==)
+
 为什么要用挖财随手记？
 我们抛弃了账号体系，一切以方便用户使用为出发点。看似简单的操作流程背后，却能通过图表功能，帮你了解消费状况，让你能够对自己的消费行为做出改善。记账虽然不能直接帮你实现财务自由，但是我们相信，只要你坚持记账，不断改善自己的消费情况，积极开源节流，一定能够实现财务自由！
 
