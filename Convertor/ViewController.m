@@ -8,7 +8,16 @@
 
 #import "ViewController.h"
 
+
+
 @interface ViewController ()
+
+@property (nonatomic,strong) CAShapeLayer *shapeLayer;
+@property (nonatomic,strong) CAShapeLayer *shapeLayer2;
+
+@property (nonatomic ,strong)NSArray * homeArray;
+
+@property (nonatomic ,strong)NSMutableArray * btnArray;
 
 @end
 
@@ -17,6 +26,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+ 
+    self.navigationController.navigationBarHidden = YES;
+    
+//    144,119,255
 }
 
 

@@ -1,0 +1,24 @@
+//
+//  PrefixHeader.pch
+//  Convertor
+//
+//  Created by 李加建 on 2017/8/25.
+//  Copyright © 2017年 jack. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+#import "Config.h"
+#import "UIView+Utils.h"
+#import "BaseMacro.h"
+#import "ConfMacro.h"
+
+typedef void (^MDArrayResultBlock)(NSArray * _Nullable objects, NSError * _Nullable error);
+
+
+#endif /* PrefixHeader_pch */
