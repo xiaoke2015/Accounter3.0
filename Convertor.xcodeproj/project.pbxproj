@@ -11,7 +11,7 @@
 		3724A4741F90933000A6C4E7 /* UICustomDatePicker.m in Sources */ = {isa = PBXBuildFile; fileRef = 3724A4721F90933000A6C4E7 /* UICustomDatePicker.m */; };
 		3724A4751F90933000A6C4E7 /* UICustomDatePicker.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3724A4731F90933000A6C4E7 /* UICustomDatePicker.xib */; };
 		3724A4781F90A04E00A6C4E7 /* GifImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3724A4771F90A04E00A6C4E7 /* GifImageView.m */; };
-		37302BCF206CE4BF006C1A4B /* TT3_1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 37302BCE206CE4BF006C1A4B /* TT3_1ViewController.m */; };
+		37302BD2206CEA16006C1A4B /* TT3_2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 37302BD1206CEA16006C1A4B /* TT3_2ViewController.m */; };
 		3738E2511F8DC4FF00F34D94 /* TabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3738E2501F8DC4FF00F34D94 /* TabBarViewController.m */; };
 		3738E2541F8DC52000F34D94 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3738E2531F8DC52000F34D94 /* HomeViewController.m */; };
 		3738E2571F8DC53500F34D94 /* ChartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3738E2561F8DC53500F34D94 /* ChartViewController.m */; };
@@ -81,8 +81,8 @@
 		3724A4731F90933000A6C4E7 /* UICustomDatePicker.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = UICustomDatePicker.xib; sourceTree = "<group>"; };
 		3724A4761F90A04E00A6C4E7 /* GifImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GifImageView.h; sourceTree = "<group>"; };
 		3724A4771F90A04E00A6C4E7 /* GifImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GifImageView.m; sourceTree = "<group>"; };
-		37302BCD206CE4BF006C1A4B /* TT3_1ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TT3_1ViewController.h; sourceTree = "<group>"; };
-		37302BCE206CE4BF006C1A4B /* TT3_1ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TT3_1ViewController.m; sourceTree = "<group>"; };
+		37302BD0206CEA16006C1A4B /* TT3_2ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TT3_2ViewController.h; sourceTree = "<group>"; };
+		37302BD1206CEA16006C1A4B /* TT3_2ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TT3_2ViewController.m; sourceTree = "<group>"; };
 		3738E24F1F8DC4FF00F34D94 /* TabBarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TabBarViewController.h; sourceTree = "<group>"; };
 		3738E2501F8DC4FF00F34D94 /* TabBarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TabBarViewController.m; sourceTree = "<group>"; };
 		3738E2521F8DC52000F34D94 /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
@@ -455,8 +455,8 @@
 				3724A4771F90A04E00A6C4E7 /* GifImageView.m */,
 				37E5F7501F4E69BB0075DCEF /* ViewController.h */,
 				37E5F7511F4E69BB0075DCEF /* ViewController.m */,
-				37302BCD206CE4BF006C1A4B /* TT3_1ViewController.h */,
-				37302BCE206CE4BF006C1A4B /* TT3_1ViewController.m */,
+				37302BD0206CEA16006C1A4B /* TT3_2ViewController.h */,
+				37302BD1206CEA16006C1A4B /* TT3_2ViewController.m */,
 				37C47BCF1F4FF56100F16364 /* BaseConfig */,
 				37E5F7531F4E69BB0075DCEF /* Main.storyboard */,
 				37E5F7561F4E69BB0075DCEF /* Assets.xcassets */,
@@ -642,6 +642,7 @@
 				3738E2E91F90582500F34D94 /* BEMLine.m in Sources */,
 				3738E2791F8E0FB800F34D94 /* BillTypeModel.m in Sources */,
 				37C47BCB1F4FF55200F16364 /* UIView+Utils.m in Sources */,
+				37302BD2206CEA16006C1A4B /* TT3_2ViewController.m in Sources */,
 				3738E2EA1F90582500F34D94 /* BEMPermanentPopupView.m in Sources */,
 				3738E2CC1F8F7CAE00F34D94 /* FinderTableViewCell.m in Sources */,
 				37E5F7521F4E69BB0075DCEF /* ViewController.m in Sources */,
@@ -661,7 +662,6 @@
 				3738E2901F8F16B400F34D94 /* BillCollectionViewCell.m in Sources */,
 				37C47BD51F4FF7C400F16364 /* BaseViewController.m in Sources */,
 				3738E2EE1F90657F00F34D94 /* ChartTableViewCell.m in Sources */,
-				37302BCF206CE4BF006C1A4B /* TT3_1ViewController.m in Sources */,
 				3738E2C91F8F71A600F34D94 /* ATCircleView.m in Sources */,
 				3738E2C01F8F5AC800F34D94 /* NSString+File.m in Sources */,
 				3724A4781F90A04E00A6C4E7 /* GifImageView.m in Sources */,

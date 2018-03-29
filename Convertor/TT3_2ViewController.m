@@ -1,18 +1,18 @@
 //
-//  TT3_1ViewController.m
+//  TT3_2ViewController.m
 //  Convertor
 //
 //  Created by 李加建 on 2018/3/29.
 //  Copyright © 2018年 jack. All rights reserved.
 //
 
-#import "TT3_1ViewController.h"
+#import "TT3_2ViewController.h"
 
-@interface TT3_1ViewController ()
+@interface TT3_2ViewController ()
 
 @end
 
-@implementation TT3_1ViewController
+@implementation TT3_2ViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
